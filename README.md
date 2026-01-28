@@ -10,11 +10,11 @@ Register here: [blank]()
 
 ## Purpose
 
-The primary goal of the Community of Edinburgh Research Software Engineers (CERSE) is to invite active and interested Research Software Engineers (RSEs) to bootstrap and participate in a local community of practice.
+The primary goal of the Community of Edinburgh Research Software Engineers (CERSE) is to invite active, interested Research Software Engineers (RSEs) to bootstrap and participate in a local community of practice.
 
 ## Venue, Date, Time
 
-In room [G.03] in The Bayes Centre at 15:00-17:00 Wednesday 18th March 2026.
+In the Bayes.Theorem (formerly G.03) at The Bayes Centre, 15:00-17:00, Wednesday 18th March 2026.
 
 ## Code of Conduct
 
@@ -36,8 +36,9 @@ This is a provisional timetable.
 
 |Time  | Item |
 |------|:------ |
-| 14.00 | Talks |
-| 15.00 | Coffee |
+| 15.00 | Talks |
+| 16.00 | Coffee |
+| 17:00 | Close |
 
 
 Refreshments provided courtesy of the [Society of Research Software Engineering](https://society-rse.org/).
