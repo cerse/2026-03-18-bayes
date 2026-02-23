@@ -40,7 +40,7 @@ This is a provisional timetable.
 |------|:------ |
 |15:00| Welcome, Chris Halcrow |
 |15:05| Robbie Court - Neuroscience, [Virtual Fly Brain](https://virtualflybrain.org/) |
-|15:20| James Cumby - Chemistry, [GRIDRDF](https://github.com/CumbyLab/gridrdf) |
+|15:20| James Cumby - Chemistry, [GRIDRDF](https://github.com/CumbyLab/gridrdf) and [PIEFACE](https://github.com/jcumby/PIEFACE)|
 |15:35| Julian Hall and Ivet Galabova - Mathematics, [HiGHS](https://highs.dev/) |
 |15:50| Mehdi Seriket - Information Services Group , [GitLab@UoE](https://digitalresearchservices.ed.ac.uk/resources/gitlab) |
 |16:05| Coffee and chat |
