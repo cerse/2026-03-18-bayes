@@ -12,6 +12,8 @@ Register here: [blank]()
 
 The primary goal of the Community of Edinburgh Research Software Engineers (CERSE) is to invite active, interested Research Software Engineers (RSEs) to bootstrap and participate in a local community of practice.
 
+This meeting is a Software Showcase. A chance for us to discover and celebrate the software being developed at the University! 
+
 ## Venue, Date, Time
 
 In the Bayes.Theorem (formerly G.03) at The Bayes Centre, 15:00-17:00, Wednesday 18th March 2026.
@@ -36,10 +38,13 @@ This is a provisional timetable.
 
 |Time  | Item |
 |------|:------ |
-| 15.00 | Talks |
-| 16.00 | Coffee |
-| 17:00 | Close |
-
+|15:00| Welcome, Chris Halcrow |
+|15:05| Robbie Court - Neuroscience, [Virtual Fly Brain](https://virtualflybrain.org/) |
+|15:20| James Cumby - Chemistry, [GRIDRDF](https://github.com/CumbyLab/gridrdf) |
+|15:35| Julian Hall and Ivet Galabova - Mathematics, [HiGHS](https://highs.dev/) |
+|15:50| Mehdi Seriket - Information Services Group , [GitLab@UoE](https://digitalresearchservices.ed.ac.uk/resources/gitlab) |
+|16:05| Coffee and chat |
+|17:00| Close |
 
 Refreshments provided courtesy of the [Society of Research Software Engineering](https://society-rse.org/).
 
