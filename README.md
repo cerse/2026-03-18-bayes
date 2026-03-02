@@ -18,7 +18,7 @@ This meeting is a Software Showcase. A chance for us to discover and celebrate t
 
 In the Bayes.Theorem (formerly G.03) at The Bayes Centre, 15:00-17:00, Wednesday 18th March 2026.
 
-If you would like to attend this event, please [register](https://www.eventbrite.com/e/the-thirteenth-cerse-meeting-tickets-1984284159336?aff=oddtdtcreator&keep_tld=true). Capacity for this room is 50 and we need to know how many teas and coffees to order.
+If you would like to attend this event, please [register]([https://www.eventbrite.com/e/the-thirteenth-cerse-meeting-tickets-1984284159336?aff=oddtdtcreator&keep_tld=true](https://www.eventbrite.co.uk/e/the-thirteenth-cerse-meeting-tickets-1984284159336?aff=oddtdtcreator)). Capacity for this room is 50 and we need to know how many teas and coffees to order.
 
 ## Code of Conduct
 
