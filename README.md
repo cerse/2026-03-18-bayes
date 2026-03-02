@@ -12,7 +12,7 @@ Register here: [blank]()
 
 The primary goal of the Community of Edinburgh Research Software Engineers (CERSE) is to invite active, interested Research Software Engineers (RSEs) to bootstrap and participate in a local community of practice.
 
-This meeting is a Software Showcase. A chance for us to discover and celebrate the software being developed at the University! 
+This meeting is a Software Showcase. A chance for us to discover and celebrate the software being developed at the University of Edinburgh! 
 
 ## Venue, Date, Time
 
