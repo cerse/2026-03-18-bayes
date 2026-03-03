@@ -1,6 +1,6 @@
 # CERSE Meeting
 
-Register here: [blank]()
+Register here: [eventbrite](https://www.eventbrite.co.uk/e/the-thirteenth-cerse-meeting-tickets-1984284159336?aff=oddtdtcreator)
 
 ## Content
 * [Purpose](#purpose)
